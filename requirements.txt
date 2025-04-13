@@ -1,2 +1,10 @@
 setuptools==75.8.0
-wheel==0.45.1
+wheel==0.45.1 
+pandas
+seaborn
+matplotlib
+ipykernel
+scikit-learn
+xgboost
+numpy
+-e .
